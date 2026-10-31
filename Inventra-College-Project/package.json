@@ -1,0 +1,16 @@
+{
+  "name": "inventra-stock-reconciliation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A college-level inventory reconciliation web application built with Node.js and Express.",
+  "type": "module",
+  "engines": { "node": ">=22.5.0" },
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node scripts/seed.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "helmet": "^8.1.0"
+  }
+}

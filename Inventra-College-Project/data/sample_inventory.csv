@@ -1,0 +1,6 @@
+product_id,product_name,variant,expected_quantity
+HW001,PVC Connector,20mm,120
+EL024,Switch,16A,80
+SP102,Bearing,6204,50
+EL031,Copper Cable,2.5mm,75
+PL014,Water Tap,Brass,32
